@@ -1,0 +1,15 @@
+C:\Users\kasusa\source\repos\miniclock\bin\Release\WindowsApplication.exe.config
+C:\Users\kasusa\source\repos\miniclock\bin\Release\WindowsApplication.exe.manifest
+C:\Users\kasusa\source\repos\miniclock\bin\Release\WindowsApplication.application
+C:\Users\kasusa\source\repos\miniclock\bin\Release\WindowsApplication.exe
+C:\Users\kasusa\source\repos\miniclock\bin\Release\WindowsApplication.pdb
+C:\Users\kasusa\source\repos\miniclock\obj\x86\Release\miniclock.csprojAssemblyReference.cache
+C:\Users\kasusa\source\repos\miniclock\obj\x86\Release\miniclock.Form1.resources
+C:\Users\kasusa\source\repos\miniclock\obj\x86\Release\miniclock.form_info.resources
+C:\Users\kasusa\source\repos\miniclock\obj\x86\Release\miniclock.Properties.Resources.resources
+C:\Users\kasusa\source\repos\miniclock\obj\x86\Release\miniclock.csproj.GenerateResource.cache
+C:\Users\kasusa\source\repos\miniclock\obj\x86\Release\miniclock.csproj.CoreCompileInputs.cache
+C:\Users\kasusa\source\repos\miniclock\obj\x86\Release\WindowsApplication.exe.manifest
+C:\Users\kasusa\source\repos\miniclock\obj\x86\Release\WindowsApplication.application
+C:\Users\kasusa\source\repos\miniclock\obj\x86\Release\WindowsApplication.exe
+C:\Users\kasusa\source\repos\miniclock\obj\x86\Release\WindowsApplication.pdb
