@@ -4,18 +4,17 @@
   <description asmv2:publisher="miniclock" asmv2:product="miniclock" xmlns="urn:schemas-microsoft-com:asm.v1" />
   <deployment install="true" mapFileExtensions="true" />
   <compatibleFrameworks xmlns="urn:schemas-microsoft-com:clickonce.v2">
-    <framework targetVersion="4.0" profile="Client" supportedRuntime="4.0.30319" />
-    <framework targetVersion="4.0" profile="Full" supportedRuntime="4.0.30319" />
+    <framework targetVersion="4.8" profile="Full" supportedRuntime="4.0.30319" />
   </compatibleFrameworks>
   <dependency>
-    <dependentAssembly dependencyType="install" codebase="miniclock.exe.manifest" size="5040">
+    <dependentAssembly dependencyType="install" codebase="miniclock.exe.manifest" size="5061">
       <assemblyIdentity name="miniclock.exe" version="1.0.0.2" publicKeyToken="0000000000000000" language="neutral" processorArchitecture="x86" type="win32" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
-        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>7zmhL/Dy+Y0QyZ0Zc3XR643n2qw=</dsig:DigestValue>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>8dq6QmFQsSBaMLfcZ9SS9BX21yjz5jMHNwdIvkCOKcQ=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>

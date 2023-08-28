@@ -42,24 +42,24 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="miniclock.exe" size="102792">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="miniclock.exe" size="105416">
       <assemblyIdentity name="miniclock" version="1.0.0.0" language="neutral" processorArchitecture="x86" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
-        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>DbiA6GwBc8XuSsdu6EqlU0tslPM=</dsig:DigestValue>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>aXAIkTniK0a17f9Ib8k4lFLut5AWfpOcJKrdo/bydTk=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
-  <file name="miniclock.exe.config" size="2231">
+  <file name="miniclock.exe.config" size="2223">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
-      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-      <dsig:DigestValue>sFfCptfZUN0i2OgtPsmauuyd1fA=</dsig:DigestValue>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>s5utW8IHMiNYB9ZCfVuyiQ6XML7dCZH6YEgo0B6PBTM=</dsig:DigestValue>
     </hash>
   </file>
   <file name="pixil_frame_0_PIZ_icon.ico" size="76833">
@@ -67,8 +67,8 @@
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
-      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-      <dsig:DigestValue>+FLAPSBLVcf8yS70IeWCAjfpo3Y=</dsig:DigestValue>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>qA2HBhiRVSP8YSVuDuH6LkojBilF0jiGdr/HfJHYiws=</dsig:DigestValue>
     </hash>
   </file>
   <compatibility xmlns="urn:schemas-microsoft-com:compatibility.v1">

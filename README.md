@@ -3,29 +3,34 @@ A really tink Numeric clock for windows
 
 ## 下载
 进入这里下载最新版 → [release](https://github.com/kasusa/miniclock/releases) 
+![Imgur](https://i.imgur.com/DzZ0cTn.png)
+
 
 ## 软件介绍
-你是一个windows使用者, 你喜欢把你的任务栏隐藏起来，但是你又需要时不时的看看时间。
-or 你喜欢玩游戏,但是某些游戏的gui不自带时间显示(可以配合Borderless Gaming一起使用)
+- 适合任务栏隐藏的情况下看时间用
+- 适合使用 RoundedTB 工具并关闭 systemtray 的情况下看时间用
+- 你喜欢玩游戏,游戏不自带时间显示 (可以配合Borderless Gaming一起使用)
 
-这个软件可以在你的屏幕上显示时间，左上角或者右上角、或者像苹果的刘海一样放到中间，任你选择。
+## 特性
+- 支持快捷键操作，点击后按下 S = setting 、 E = exit 等
+- 支持放置左右中三个位置
+- 代码精简,非常小巧 100+ KB
+- 使用winform开发，刷新频率为10s/次，不占用系统资源
 
 ## 截图
 
-屏幕截图：
 
-![image-20210611132638226](README.assets/image-20210611132638226.png)![image-20210611132655697](README.assets/image-20210611132655697.png)![image-20210611132735943](README.assets/image-20210611132735943.png)![image-20210611132712213](README.assets/image-20210611132712213.png)
+使用截图：
 
-实际使用截图：
-![image](https://user-images.githubusercontent.com/49443405/169947415-6d8f860f-d9dd-4512-a112-5e6ed17513c1.png)
-
+![Imgur](https://i.imgur.com/ttGoMkM.png)
+<!-- ![Imgur](https://i.imgur.com/9onXmWy.png) -->
 
 
 ### 未来
-* 自定义主题
-* 更好的半透明主题
-* 支持多屏幕（选择）
-* 支持保存自定义配置（大小颜色位置）
+* 自定义主题 ✔️
+* 可以透明的背景 ✔️
+* 支持保存自定义配置 ✔️
+* 支持多屏幕
 
 <!-- 
 ## 更新日志

@@ -20,7 +20,6 @@ namespace miniclock
         {
             sets.GetSettings();
             setValues();
-
         }
         public void setValues()
         {
@@ -38,8 +37,6 @@ namespace miniclock
                     middleToolStripMenuItem.PerformClick();
                     break;
             }
-
-
             label1.BackColor = sets.bg_color; //文本颜色、
             label1.ForeColor = sets.fore_color; //恢复文本颜色
             label1.Font = sets.fontStyle; //恢复字体设置
@@ -81,12 +78,9 @@ namespace miniclock
         private void label1_Click(object sender, EventArgs e)
         {
             sets.GetSettings();
-            label1.Height = sets.height;
-            label1.Width = sets.width;
-            label1.Font = sets.fontStyle; 
+            setValues();
+
             contextMenuStrip1.Show(Cursor.Position);//在鼠标位置显示一个菜单
-
-
         }
 
         //close button
@@ -115,25 +109,32 @@ namespace miniclock
             sets.Save();
         }
       
-        //切换黑色模式
+        //切换黑色模式/白色模式/透明模式
         private void hacker_styleToolStripMenuItem_Click(object sender, EventArgs e)
         {
+
             if (sets.bg_color==Color.White)
             {
-                label1.BackColor = Color.Black;
-                label1.ForeColor = Color.White; //文本颜色
                 sets.bg_color = Color.Black; 
                 sets.fore_color = Color.White;
-
             }
             else if (sets.bg_color == Color.Black)
             {
-                label1.BackColor = Color.White;
-                label1.ForeColor = Color.Black;
+                sets.bg_color = Color.Navy;
+                sets.fore_color = Color.Cyan;
+            }
+            else if(sets.bg_color == Color.Navy)
+            {
                 sets.bg_color = Color.White;
                 sets.fore_color = Color.Black;
             }
+            else
+            {
+                sets.bg_color = Color.Black;
+                sets.fore_color = Color.White;
+            }
             sets.Save();
+            setValues();
         }
 
 
@@ -182,5 +183,9 @@ namespace miniclock
             b.Visible = true;
         }
 
+        private void contextMenuStrip1_Opening(object sender, System.ComponentModel.CancelEventArgs e)
+        {
+
+        }
     }
 }
