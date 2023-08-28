@@ -2,7 +2,7 @@
 A really tink Numeric clock for windows 
 
 ## 下载
-进入这里下载最新版 → [release](https://github.com/kasusa/miniclock/releases) 
+进入这里下载最新版 → [release](https://github.com/cornradio/miniclock/releases) 
 ![Imgur](https://i.imgur.com/DzZ0cTn.png)
 
 
@@ -10,11 +10,11 @@ A really tink Numeric clock for windows
 - 适合任务栏隐藏的情况下看时间用
 - 适合使用 RoundedTB 工具并关闭 systemtray 的情况下看时间用
 - 你喜欢玩游戏,游戏不自带时间显示 (可以配合Borderless Gaming一起使用)
-
+- 注意：如果模糊，右键-属性-兼容性-高DPI-替代高DPI缩放行为：应用程序
 ## 特性
 - 支持快捷键操作，点击后按下 S = setting 、 E = exit 等
 - 支持放置左右中三个位置
-- 代码精简,非常小巧 100+ KB
+- 代码精简,非常小巧 500+ KB(图标占大头)
 - 使用winform开发，刷新频率为10s/次，不占用系统资源
 
 ## 截图

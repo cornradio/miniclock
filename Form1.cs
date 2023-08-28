@@ -6,6 +6,7 @@ using System.IO;
 
 using System.Windows.Forms;
 using System.Collections.Generic;
+using System.Diagnostics;
 
 namespace miniclock
 {
@@ -187,5 +188,13 @@ namespace miniclock
         {
 
         }
+
+        private void edgeToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            string edgePath = @"C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe";  // Edge浏览器的安装路径
+
+            Process.Start(edgePath);  // 启动Edge浏览器
+        }
+
     }
 }

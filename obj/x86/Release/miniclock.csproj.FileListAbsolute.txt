@@ -13,6 +13,11 @@ C:\Users\kasusa\source\repos\miniclock\obj\x86\Release\WindowsApplication.exe.ma
 C:\Users\kasusa\source\repos\miniclock\obj\x86\Release\WindowsApplication.application
 C:\Users\kasusa\source\repos\miniclock\obj\x86\Release\WindowsApplication.exe
 C:\Users\kasusa\source\repos\miniclock\obj\x86\Release\WindowsApplication.pdb
+C:\Users\kasus\Documents\GitHub\miniclock\bin\Release\miniclock.exe.config
+C:\Users\kasus\Documents\GitHub\miniclock\bin\Release\miniclock.exe.manifest
+C:\Users\kasus\Documents\GitHub\miniclock\bin\Release\miniclock.application
+C:\Users\kasus\Documents\GitHub\miniclock\bin\Release\miniclock.exe
+C:\Users\kasus\Documents\GitHub\miniclock\bin\Release\miniclock.pdb
 C:\Users\kasus\Documents\GitHub\miniclock\obj\x86\Release\miniclock.csproj.AssemblyReference.cache
 C:\Users\kasus\Documents\GitHub\miniclock\obj\x86\Release\miniclock.csproj.SuggestedBindingRedirects.cache
 C:\Users\kasus\Documents\GitHub\miniclock\obj\x86\Release\miniclock.Form_main.resources
@@ -21,11 +26,6 @@ C:\Users\kasus\Documents\GitHub\miniclock\obj\x86\Release\miniclock.Properties.R
 C:\Users\kasus\Documents\GitHub\miniclock\obj\x86\Release\miniclock.csproj.GenerateResource.cache
 C:\Users\kasus\Documents\GitHub\miniclock\obj\x86\Release\miniclock.csproj.CoreCompileInputs.cache
 C:\Users\kasus\Documents\GitHub\miniclock\obj\x86\Release\miniclock.exe.manifest
+C:\Users\kasus\Documents\GitHub\miniclock\obj\x86\Release\miniclock.application
 C:\Users\kasus\Documents\GitHub\miniclock\obj\x86\Release\miniclock.exe
 C:\Users\kasus\Documents\GitHub\miniclock\obj\x86\Release\miniclock.pdb
-C:\Users\kasus\Documents\GitHub\miniclock\bin\Release\miniclock.exe.config
-C:\Users\kasus\Documents\GitHub\miniclock\bin\Release\miniclock.exe.manifest
-C:\Users\kasus\Documents\GitHub\miniclock\bin\Release\miniclock.application
-C:\Users\kasus\Documents\GitHub\miniclock\bin\Release\miniclock.exe
-C:\Users\kasus\Documents\GitHub\miniclock\bin\Release\miniclock.pdb
-C:\Users\kasus\Documents\GitHub\miniclock\obj\x86\Release\miniclock.application
