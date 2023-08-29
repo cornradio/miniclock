@@ -21,11 +21,19 @@ namespace miniclock
         {
             sets.GetSettings();
             setValues();
+
         }
         public void setValues()
         {
             label1.Width = sets.width;
             label1.Height = sets.height;
+            label1.BackColor = sets.bg_color; //文本颜色、
+            label1.ForeColor = sets.fore_color; //恢复文本颜色
+            label1.Font = sets.fontStyle; //恢复字体设置
+            //把窗口大小设定为lable大小
+            this.Width = label1.Width;
+            this.Height = label1.Height;
+
             switch (sets.position)
             {
                 case 0:
@@ -38,9 +46,6 @@ namespace miniclock
                     middleToolStripMenuItem.PerformClick();
                     break;
             }
-            label1.BackColor = sets.bg_color; //文本颜色、
-            label1.ForeColor = sets.fore_color; //恢复文本颜色
-            label1.Font = sets.fontStyle; //恢复字体设置
         }
 
         public Form_main()

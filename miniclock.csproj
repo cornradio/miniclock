@@ -55,10 +55,10 @@
     <ApplicationManifest>app.manifest</ApplicationManifest>
   </PropertyGroup>
   <PropertyGroup>
-    <ManifestCertificateThumbprint>0E1451C96E054008F6B78A128BD8B39666E78756</ManifestCertificateThumbprint>
+    <ManifestCertificateThumbprint>0BAE6B0BBBE1CE84D51EAFD03E16B9C035B1AA2E</ManifestCertificateThumbprint>
   </PropertyGroup>
   <PropertyGroup>
-    <ManifestKeyFile>miniclock_TemporaryKey.pfx</ManifestKeyFile>
+    <ManifestKeyFile>miniclock_1_TemporaryKey.pfx</ManifestKeyFile>
   </PropertyGroup>
   <PropertyGroup>
     <GenerateManifests>true</GenerateManifests>
@@ -111,6 +111,7 @@
     <None Include=".vs\VSWorkspaceState.json" />
     <None Include="App.config" />
     <None Include="app.manifest" />
+    <None Include="miniclock_1_TemporaryKey.pfx" />
     <None Include="miniclock_TemporaryKey.pfx" />
     <None Include="packages.config" />
     <None Include="Properties\Settings1.settings">
