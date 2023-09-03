@@ -24,15 +24,15 @@ A really tink Numeric clock for windows
 
 ![Imgur](https://i.imgur.com/ttGoMkM.png)
 <!-- ![Imgur](https://i.imgur.com/9onXmWy.png) -->
-
+![Imgur](https://i.imgur.com/TXUNa33.png)
 
 ### 未来
 * 自定义主题 ✔️
 * 可以透明的背景 ✔️
-* 支持保存自定义配置 ✔️
+* 支持自定义配置 ✔️
+* 修改form1大小，让窗体大小始终和lable一样大，防止遮挡。✔️
 * 支持多屏幕
 * 支持在设置界面显示当前时间、所在位置
-* 修改form1大小，让窗体大小始终和lable一样大，防止遮挡。
 
 <!-- 
 ## 更新日志
